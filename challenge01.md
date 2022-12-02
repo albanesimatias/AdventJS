@@ -7,7 +7,7 @@ A la máquina se le pasa un array con los regalos. Cada regalo es un string. Nec
 El papel de regalo es el símbolo * y para envolver un regalo se coloca el símbolo * de forma que rodee totalmente al string por todos los lados. Por ejemplo:
 </p>
 
-```
+```js
 const gifts = ['book', 'game', 'socks']
 const wrapped = wrapping(gifts)
 console.log(wrapped)
@@ -29,7 +29,7 @@ Nota:El carácter \n representa un salto de línea.
 
 <h2>Mi solucion</h2>
 
-```
+```js
 function wrapping(gifts) {
   return gifts.map(gift => {
     return "*".repeat(gift.length+2)+"\n"+
