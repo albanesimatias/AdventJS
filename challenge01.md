@@ -27,7 +27,7 @@ Nota:El carácter \n representa un salto de línea.
 ¡Suerte!
 </p>
 
-<h2>Mi solucion</h2>
+<h2>Solucion</h2>
 
 ```js
 function wrapping(gifts) {
