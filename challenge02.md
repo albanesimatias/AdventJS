@@ -35,7 +35,7 @@ function countHours(year, holidays) {
   holidays.forEach(holiday => {
     let day = new Date (year+"/"+holiday).getDay()
     if(day != 0 && day !=6)
-      return acc+=2
+      acc+=2
   })
   return acc
 }
