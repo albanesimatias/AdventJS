@@ -19,9 +19,10 @@ distributeGifts(packOfGifts, reindeers) // 2
 ```
 <p>
 Cosas a tener en cuenta:
-
-Las cajas de regalos no se pueden dividir.
-Los nombres de los regalos y los renos siempre serán mayores que 0.
+<ul>
+  <li>Las cajas de regalos no se pueden dividir.</li>
+  <li>Los nombres de los regalos y los renos siempre serán mayores que 0.</li>
+</ul>
 </p>
 
 <h2>Solucion</h2>
