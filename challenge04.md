@@ -41,12 +41,12 @@ Cosas a tener en cuenta:
 ```js
 function fitsInOneBox(boxes) {
     let bool = true
-    boxes.sort((a,b) => (a.l<=b.l && a.w<=b.w && a.h<=b.h)? 1: -1)
+    boxes.sort((a,b) => (a.l<=b.l && a.w<=b.w && a.h<=b.h)? -1: 1)
     .reduce((ant,act) => {
-        if(ant.l<=act.l || ant.w<=act.w || ant.h<=act.h)
+        if(ant.l>=act.l || ant.w>=act.w || ant.h>=act.h)
           bool = false
         return act
-      },{l:999, h:999, w:999})
+      },{l:0, h:0, w:0})
       return bool
 }
 ```
