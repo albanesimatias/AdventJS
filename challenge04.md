@@ -40,13 +40,13 @@ Cosas a tener en cuenta:
 
 ```js
 function fitsInOneBox(boxes) {
-    let bool = true
-    boxes.sort((a,b) => (a.l<=b.l && a.w<=b.w && a.h<=b.h)? -1: 1)
-    .reduce((ant,act) => {
-        if(ant.l>=act.l || ant.w>=act.w || ant.h>=act.h)
-          bool = false
-        return act
-      },{l:0, h:0, w:0})
-      return bool
+    let ant = {l:0, h:0, w:0}
+    return boxes.sort((a,b) => (a.l+a.w+a.h) - (b.l+b.w+b.h))
+    .every(box => {
+        if(ant.l>=box.l || ant.w>=box.w || ant.h>=box.h)
+          return false
+        ant = box
+        return true
+    })
 }
 ```
