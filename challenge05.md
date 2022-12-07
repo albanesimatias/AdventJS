@@ -25,7 +25,7 @@ const maxCities = 3
 getMaxGifts(giftsCities, maxGifts, maxCities) // 20
 ```
 <p>
-Si no se puede realizar ningún viaje que satisface los requerimientos, el resultado debe ser 0. Más ejemplos:
+Si no se puede realizar ningún viaje que satisface los requerimientos, el resultado debe ser 0.
 </p>
 
 <p>
