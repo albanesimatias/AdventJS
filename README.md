@@ -1,11 +1,10 @@
 # Challenges de AdventJS
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cd0c46abeb4c4f48810455010ab1295411090e100fe6537c4f918ee22e8997b4/68747470733a2f2f692e696d6775722e636f6d2f485569686f7a652e6a7067"><img src="https://camo.githubusercontent.com/cd0c46abeb4c4f48810455010ab1295411090e100fe6537c4f918ee22e8997b4/68747470733a2f2f692e696d6775722e636f6d2f485569686f7a652e6a7067" alt="Advent JS 2022" data-canonical-src="https://i.imgur.com/HUihoze.jpg" style="max-width: 100%;"></a></p>
 Repositorio en el cual podras encontrar mis soluciones a los challenges de https://adventjs.dev/
-
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cd0c46abeb4c4f48810455010ab1295411090e100fe6537c4f918ee22e8997b4/68747470733a2f2f692e696d6775722e636f6d2f485569686f7a652e6a7067"><img src="https://camo.githubusercontent.com/cd0c46abeb4c4f48810455010ab1295411090e100fe6537c4f918ee22e8997b4/68747470733a2f2f692e696d6775722e636f6d2f485569686f7a652e6a7067" alt="Advent JS 2022" data-canonical-src="https://i.imgur.com/HUihoze.jpg" style="max-width: 100%;"></a></p>
 <h3>¿Qué es AdventJS?</h3>
 AdventJS es una iniciativa de @midudev basada en Advent of Code que consiste en resolver un reto diario cada día de diciembre hasta el día 25.
 
+<h2>Challenges</h2>
 <table>
 <thead>
 <tr>
