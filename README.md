@@ -9,7 +9,7 @@ AdventJS es una iniciativa de @midudev basada en Advent of Code que consiste en 
 <tr>
 <th align="center">#</th>
 <th align="center">Nombre del Reto</th>
-<th align="center">Dificultad<sup><a href="#user-content-fn-1-95d77bbdd53389e1d28cfdb027c44f55" id="user-content-fnref-1-95d77bbdd53389e1d28cfdb027c44f55" data-footnote-ref="" aria-describedby="footnote-label">1</a></sup></th>
+<th align="center">Dificultad<a href="#user-content-fn-1-95d77bbdd53389e1d28cfdb027c44f55" id="user-content-fnref-1-95d77bbdd53389e1d28cfdb027c44f55" data-footnote-ref="" aria-describedby="footnote-label">1</a></sup></th>
 <th align="center">Solución</th>
 </tr>
 </thead>
