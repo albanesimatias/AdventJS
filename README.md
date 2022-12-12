@@ -9,7 +9,7 @@ AdventJS es una iniciativa de @midudev basada en Advent of Code que consiste en 
 <tr>
 <th align="center">#</th>
 <th align="center">Nombre del Reto</th>
-<th align="center">Dificultad<a href="#user-content-fn-1-95d77bbdd53389e1d28cfdb027c44f55" id="user-content-fnref-1-95d77bbdd53389e1d28cfdb027c44f55" data-footnote-ref="" aria-describedby="footnote-label">1</a></sup></th>
+<th align="center">Dificultad</th>
 <th align="center">Solución</th>
 </tr>
 </thead>
@@ -73,6 +73,12 @@ AdventJS es una iniciativa de @midudev basada en Advent of Code que consiste en 
 <td align="center">El salto del trineo de Papá Noel</td>
 <td align="center"><g-emoji class="g-emoji" alias="orange_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e0.png">🟠</g-emoji></td>
 <td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge10.md">Spoiler</a></td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="center">Papá Noel es Scrum Masterl</td>
+<td align="center"><g-emoji class="g-emoji" alias="orange_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e0.png">🟠</g-emoji></td>
+<td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge11.md">Spoiler</a></td>
 </tr>
 </tbody>
 </table>
