@@ -15,5 +15,7 @@ AdventJS es una iniciativa de @midudev basada en Advent of Code que consiste en 
   <li><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge07.md">Challenge 07</a></li>
   <li><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge08.md">Challenge 08</a></li>
   <li><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge09.md">Challenge 09</a></li>
+  <li><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge10.md">Challenge 10</a></li>
+  <li><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge11.md">Challenge 11</a></li>
 </ul>
 
