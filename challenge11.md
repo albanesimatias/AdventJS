@@ -28,6 +28,7 @@ getCompleted('03:30:30', '05:50:50') // '3/5
 </ul>
 
 <h2>Solución</h2>
+
 ```js
 function getCompleted(part, total) {
   let dividendo = part.split(':').map(x=>Number(x))
