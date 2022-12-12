@@ -1,4 +1,6 @@
 # Challenges de AdventJS
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cd0c46abeb4c4f48810455010ab1295411090e100fe6537c4f918ee22e8997b4/68747470733a2f2f692e696d6775722e636f6d2f485569686f7a652e6a7067"><img src="https://camo.githubusercontent.com/cd0c46abeb4c4f48810455010ab1295411090e100fe6537c4f918ee22e8997b4/68747470733a2f2f692e696d6775722e636f6d2f485569686f7a652e6a7067" alt="Advent JS 2022" data-canonical-src="https://i.imgur.com/HUihoze.jpg" style="max-width: 100%;"></a></p>
 Repositorio en el cual podras encontrar mis soluciones a los challenges de https://adventjs.dev/
 
 <h3>¿Qué es AdventJS?</h3>
@@ -77,7 +79,7 @@ AdventJS es una iniciativa de @midudev basada en Advent of Code que consiste en 
 <tr>
 <td align="center">11</td>
 <td align="center">Papá Noel es Scrum Masterl</td>
-<td align="center"><g-emoji class="g-emoji" alias="orange_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e0.png">🟠</g-emoji></td>
+<td align="center"><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji></td></td>
 <td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge11.md">Spoiler</a></td>
 </tr>
 </tbody>
