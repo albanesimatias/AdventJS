@@ -2,7 +2,7 @@
 Repositorio en el cual podras encontrar mis soluciones a los challenges de https://adventjs.dev/
 <img src="https://camo.githubusercontent.com/cd0c46abeb4c4f48810455010ab1295411090e100fe6537c4f918ee22e8997b4/68747470733a2f2f692e696d6775722e636f6d2f485569686f7a652e6a7067" alt="Advent JS 2022" data-canonical-src="https://i.imgur.com/HUihoze.jpg" style="max-width: 100%;">
 <h3>¿Qué es AdventJS?</h3>
-<p>AdventJS es una iniciativa de @midudev basada en Advent of Code que consiste en resolver un reto diario cada día de diciembre hasta el día 25.</p>
+<p>AdventJS es una iniciativa de <a href="https://twitter.com/midudev">@midudev</a> basada en Advent of Code que consiste en resolver un reto diario cada día de diciembre hasta el día 25.</p>
 
 <h2>Challenges</h2>
 <table>
