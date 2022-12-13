@@ -41,6 +41,8 @@ selectSleigh(distance, sleighs) // => "Dancer"
   <li>Si ningún trineo es usable para la distancia, devuelve null.</li>
 </ul>
 
+<h2>Solucion</h2>
+
 ```js
 function selectSleigh(distance, sleighs) {
   let x = sleighs.map(x=>({
@@ -51,3 +53,16 @@ function selectSleigh(distance, sleighs) {
   return x.length<1?null:x.at(-1).name
 }
 ```
+
+```js
+function selectSleigh(distance, sleighs) {
+  return sleighs.map(x => ({
+    name: x.name,
+    consumption: x.consumption * distance
+  }))
+    .filter(x => x.consumption <= 20)
+    .reduce((_, actual) => actual.name, null)
+}
+```
+
+
