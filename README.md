@@ -87,6 +87,12 @@ Repositorio en el cual podras encontrar mis soluciones a los challenges de https
 <td align="center"><g-emoji class="g-emoji" alias="orange_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e0.png">🟠</g-emoji></td>
 <td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge12.md">Spoiler</a></td>
 </tr>
+<tr>
+<td align="center">13</td>
+<td align="center">Backup de los archivos de Papá Noel</td>
+<td align="center"><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji></td>
+<td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge13.md">Spoiler</a></td>
+</tr>
 </tbody>
 </table>
 
