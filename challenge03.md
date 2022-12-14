@@ -36,3 +36,12 @@ function distributeGifts(packOfGifts, reindeers) {
   return Math.floor(maxWeight/giftWeight)
 }
 ```
+
+<h2>Solucion en una linea</h2>
+
+```js
+function distributeGifts(packOfGifts, reindeers) {
+  return Math.floor(reindeers.reduce((acc,reindeer) => acc+reindeer.length*2,0)/
+         packOfGifts.reduce((acc,gift) => acc+gift.length,0))
+}
+```
