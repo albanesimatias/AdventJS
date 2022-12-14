@@ -40,7 +40,7 @@ function countHours(year, holidays) {
 }
 ```
 
-<h2>Solucion en una linea<h2>
+<h2>Solucion en una linea</h2>
 
 ```js
 function countHours(year, holidays) {
