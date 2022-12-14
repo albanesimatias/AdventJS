@@ -39,3 +39,11 @@ function countHours(year, holidays) {
   return acc
 }
 ```
+
+<h2>Solucion en una linea<h2>
+
+```js
+function countHours(year, holidays) {
+  return holidays.reduce((acc,act) => (new Date (year+"/"+act).getDay()%6!=0) ? acc+2:acc,0)
+}
+```
