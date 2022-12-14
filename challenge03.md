@@ -45,3 +45,13 @@ function distributeGifts(packOfGifts, reindeers) {
          packOfGifts.reduce((acc,gift) => acc+gift.length,0))
 }
 ```
+
+<h2>Solucion adicional</h2>
+
+```js
+function distributeGifts(packOfGifts, reindeers) {
+  return Math.floor(
+    reindeers.join("").length*2/
+    packOfGifts.join("").length)
+}
+```
