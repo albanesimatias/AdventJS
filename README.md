@@ -93,6 +93,18 @@ Repositorio en el cual podras encontrar mis soluciones a los challenges de https
 <td align="center"><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji></td>
 <td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge13.md">Spoiler</a></td>
 </tr>
+<tr>
+<td align="center">14</td>
+<td align="center">El mejor camino</td>
+<td align="center"><g-emoji class="g-emoji" alias="orange_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e0.png">🟠</g-emoji></td>
+<td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge14.md">Spoiler</a></td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td align="center">Decorando el arbol de navidad</td>
+<td align="center"><g-emoji class="g-emoji" alias="orange_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e0.png">🟠</g-emoji></td>
+<td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge15.md">Spoiler</a></td>
+</tr>
 </tbody>
 </table>
 
