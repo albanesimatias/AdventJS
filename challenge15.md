@@ -1,9 +1,13 @@
 # Instrucciones
 <p>
 Una pareja está poniendo el árbol de navidad. El chico es un motivado de los adornos navideños y quiere que quede perfectamente equilibrado. Tiene tres tipos de decoraciones:
- ° Bolas de colores : B
- ° Regalos pequeños : R
- ° Piñas de pino : P
+</p>
+<ul>
+ <li>Bolas de colores : B</li>
+ <li>Regalos pequeños : R</li>
+ <li>Piñas de pino : P</li>
+</ul>
+</p>
 El árbol de navidad es un triángulo que hay que generar. Ya tienen la base montada, que sería la primera fila, y a partir de ahí tienen que ir colocando las decoraciones hacía arriba siguiendo una fórmula.
 </p>
 
