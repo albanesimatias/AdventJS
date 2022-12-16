@@ -47,7 +47,7 @@ decorateTree('B B') // ['B', 'B B']
   <li>El programa recibe siempre la cadena de texto que representa la base del árbol.</li>
   <li>Hay que generar el árbol completo, es decir, la base y las filas que se generan a partir de ella, hasta arriba.</li>
   <li>Hay que seguir la fórmula para saber qué decoración colocar en cada posición.</li>
-<ul>
+</ul>
 
 <h2>Solución</h2>  
   
