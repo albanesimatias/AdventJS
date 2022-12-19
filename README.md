@@ -111,6 +111,18 @@ Repositorio en el cual podras encontrar mis soluciones a los challenges de https
 <td align="center"><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji></td>
 <td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge16.md">Spoiler</a></td>
 </tr>
+<tr>
+<td align="center">17</td>
+<td align="center">Llevando los regalos en sacos</td>
+<td align="center"><g-emoji class="g-emoji" alias="orange_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e0.png">🟠</g-emoji></td>
+<td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge17.md">Spoiler</a></td>
+</tr>
+<tr>
+<td align="center">18</td>
+<td align="center">¡Nos quedamos sin titna!</td>
+<td align="center"><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji></td>
+<td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge18.md">Spoiler</a></td>
+</tr>
 </tbody>
 </table>
 
