@@ -30,7 +30,7 @@ sortToys(moreToys, morePositions)
   <li>Ni los juguetes ni las posiciones se repiten.</li>
 </ul>
 
-<h2>Solucion<h2>
+<h2>Solucion</h2>
   
  ```js
  function sortToys(toys, positions) {
