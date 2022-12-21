@@ -123,6 +123,18 @@ Repositorio en el cual podras encontrar mis soluciones a los challenges de https
 <td align="center"><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji></td>
 <td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge18.md">Spoiler</a></td>
 </tr>
+<tr>
+<td align="center">19</td>
+<td align="center">Ordenando los regalos</td>
+<td align="center"><g-emoji class="g-emoji" alias="green_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f7e2.png">🟢</g-emoji></td>
+<td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge19.md">Spoiler</a></td>
+</tr>
+<tr>
+<td align="center">20</td>
+<td align="center">Más viajes retadores</td>
+<td align="center"><g-emoji class="g-emoji" alias="red_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f534.png">🔴</g-emoji></td>
+<td align="center"><a href="https://github.com/albanesimatias/Challenges-adventJS/blob/main/challenge20.md">Spoiler</a></td>
+</tr>
 </tbody>
 </table>
 
